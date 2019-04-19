@@ -1,4 +1,4 @@
 # LruCacheTest
 In this android sample used Lru Cache to store data in memory cache
-![Alt text](LruCacheTest/device-2019-04-19-174812.jpg?raw=true "Optional Title")
-![Alt text](LruCacheTest/device-2019-04-19-174853.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/amitranjan2303/LruCacheTest/blob/master/device-2019-04-19-174812.jpg "Optional Title")
+![Alt text](https://github.com/amitranjan2303/LruCacheTest/blob/master/device-2019-04-19-174812.jpg "Optional Title")
